@@ -1,5 +1,5 @@
 ## Stage 1: 项目骨架与依赖
-**Goal**: 初始化前后端目录，配置 Vite + Vue3、Express + Socket.IO、TypeScript、ESLint，并建立共享类型定义。
+**Goal**: 初始化前后端目录，配置 Vite + Vue3、Express + Socket.IO、Node.js（后端），并建立共享类型定义。
 **Success Criteria**: 
 - 前后端可分别启动开发服务器
 - 统一的环境变量与 .editorconfig/.eslint 配置生效
